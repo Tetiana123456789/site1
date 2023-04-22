@@ -1,1 +1,211 @@
+body {
+    font-family: Comic Sans MS;
+    background-image: linear-gradient(#169cad, #016f7e, #06535e, #016f7e, #169cad);
+    border-left: 20px double #01383f;
+    border-right: 20px double #01383f;
 
+}
+h1 {
+    text-align: center;
+    
+    
+}
+header {
+    background-color: #A65000;
+    padding: 20px;
+    border: double 20px #472300;
+    color: #160a00;
+
+}
+nav a {
+    background-image: linear-gradient(#36BBCE, #016f7e);
+    border-radius: 10px;
+    padding: 7px;
+    color: #011d20;
+    text-decoration: none;
+    font-size: 20px;
+    border: 5px solid #006874;
+    margin: 10px;
+}
+nav a:hover {
+    box-shadow: 3px 7px 20px rgb(1, 35, 48);
+    transition: 0.5s;
+    color: white;
+}
+nav a:focus {
+    border: #005b69 5px solid;
+    background-image: linear-gradient(#006874, #016f7e);
+}
+nav {
+    text-align: center;
+    margin: 20px;
+}
+img header {
+    position: relative;
+    top: 10px;
+    justify-content: ;
+}
+.logotyp {
+    margin-top: 0px;
+}
+.smile {
+    background-image: linear-gradient(#36BBCE, #016f7e);
+    font-size: 25px;
+    border: 5px solid #006874;
+}
+.smile:hover {
+    background-image: linear-gradient(#b65f0e, #A65000);
+    border: 8px double #472300;
+    transition: 0.5s;
+}
+h2{
+    text-align: center;
+    font-size: 22px;
+}
+.info {
+    font-size: 30px;
+    background-color: #A65000;
+    padding: 20px;
+    border: double 20px #472300;
+    color: #160a00;
+    position: relative;
+    top: 10px;
+}
+.clothrs {
+    position: relative;
+    top: 300px;
+}
+.photo {
+    border-radius: 10px;
+    margin-left: 60px;
+    border: 20px double #004e57;
+    width: 300px;
+    position: relative;
+    right: 100px;
+    bottom: 40px;
+}
+div {
+    background-color: rgb(0, 97, 114);
+    padding: 37px;
+    width: 255px;
+    margin: 34px;
+}
+.buy {
+    float: right;
+    position: relative;
+    
+}
+.info2 {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 37px;
+    display: flex;
+    margin: 0px auto 0px auto;
+    max-width: 1100px;
+}
+article {
+    background-color: #A65000;
+    padding: 20px;
+    border: double 20px #472300;
+    color: #160a00;
+    padding: 37px;
+    width: 500px;
+    margin: 34px;
+    
+}
+
+.article-but {
+    background-image: linear-gradient(#36BBCE, #016f7e);
+    border-radius: 10px;
+    padding: 7px;
+    color: #011d20;
+    text-decoration: none;
+    font-size: 20px;
+    border: 5px solid #006874;
+    margin: 10px;
+}
+.article-but:hover {
+    box-shadow: 3px 7px 20px rgb(1, 35, 48);
+    transition: 0.5s;
+    color: white;
+}
+.article-but:focus {
+    border: #005b69 5px solid;
+    background-image: linear-gradient(#006874, #016f7e);
+}
+article img{
+    border: double 20px #472300;
+}
+.rekom{
+    background-color: #A65000;
+    padding: 5px;
+    border: double 20px #472300;
+    color: #160a00;
+    font-size: 20px;
+    font-size: 4p;
+}
+iframe {
+    position: relative;
+    left: 500px;
+}
+span {
+    opacity: 0.5;
+    text-align: center;
+}
+span:hover {
+    opacity: 1;
+    transition: 1s;
+}
+footer {
+    background-color: #A65000;
+    padding: 20px;
+    border: double 20px #472300;
+    color: #160a00;
+    height: 100px;
+}
+footer p {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.com1 {
+    background-image: linear-gradient(#36BBCE, #016f7e);
+    font-size: 30px;
+    border: 5px solid #006874;
+    text-align: center;
+}
+.com1:hover {
+    background-image: linear-gradient(#b65f0e, #A65000);
+    border: 8px double #472300;
+    transition: 0.5s;
+}
+.com2 {
+    background-color: #A65000;
+    font-size: 20px;
+    border: double 10px #472300;
+    padding: 5px;
+}
+.com3 {
+    background-color: #A65000;
+    font-size: 20px;
+    border: double 10px #472300;
+    padding: 15px 0px 15px 0px;
+}
+.komentariy1 {
+    background-image: linear-gradient(#347580, #0b6672);
+    border: 5px solid #023c42;
+    margin: 30px;
+    border-radius: 30px;
+}
+.like {
+    width: 100px;
+    margin: 30px;
+}
+.like:hover {
+    width: 150px;
+    transition: 3s;
+    
+}
+.cat {
+    width: 100px;
+}
