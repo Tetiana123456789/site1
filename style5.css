@@ -1,0 +1,80 @@
+nav a {
+    background-image: linear-gradient(#36BBCE, #016f7e);
+    border-radius: 10px;
+    padding: 7px;
+    color: #011d20;
+    text-decoration: none;
+    font-size: 20px;
+    border: 5px solid #006874;
+    margin: 10px;
+}
+nav a:hover {
+    box-shadow: 3px 7px 20px rgb(1, 35, 48);
+    transition: 0.5s;
+    color: white;
+}
+nav a:focus {
+    border: #005b69 5px solid;
+    background-image: linear-gradient(#006874, #016f7e);
+}
+nav {
+    text-align: center;
+    margin: 20px;
+}
+footer {
+    background-color: #A65000;
+    text-align: center;
+    border: double 20px #472300;
+    color: #160a00;
+    height: 100px;
+}
+footer p {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.smile1 {
+    background-image: linear-gradient(#36BBCE, #016f7e);
+    font-size: 25px;
+    border: 5px solid #006874;
+    text-align: center;
+}
+.smile1:hover {
+    background-image: linear-gradient(#b65f0e, #A65000);
+    border: 8px double #472300;
+    transition: 0.5s;
+}
+.info {
+    font-size: 20px;
+    background-color: #A65000;
+    padding: 15px;
+    border: double 20px #472300;
+    color: #160a00;
+    position: relative;
+    top: 10px;
+}
+body {
+    font-family: Comic Sans MS;
+    background-image: linear-gradient(#169cad, #016f7e, #06535e, #016f7e, #169cad);
+    border-left: 20px double #01383f;
+    border-right: 20px double #01383f;
+
+}
+h1 {
+    text-align: center;
+    
+    
+}
+header {
+    background-color: #A65000;
+    padding: 20px;
+    border: double 20px #472300;
+    color: #160a00;
+
+}
+.photo {
+    border-radius: 10px;
+    border: 20px double #004e57;
+    width: 300px;
+    margin: 1000px;
+}
